@@ -2,6 +2,10 @@
 
 A responsive, client-side task management application developed using HTML, CSS, and JavaScript. The project demonstrates JavaScript concepts including DOM manipulation, event handling, CRUD operations, state management, event delegation, filtering, and browser-based data persistence.
 
+##Live Demo
+
+https://supritha-devi.github.io/Interactive-JavaScript-To-Do-List/
+
 ## Project Overview
 
 The Interactive To-Do List allows users to manage tasks through a simple and clean interface. Users can create, view, edit, complete, delete, and filter tasks based on their status.
